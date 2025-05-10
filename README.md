@@ -37,7 +37,7 @@ parameters passed to the function.
 
   - RESULT
 
-  <img src="Images/Task1-Result.png" alt="Alt Text" width="600">
+  <img src="Images/Task2-Result.png" alt="Alt Text" width="600">
 
 ## **TASK 3**
  
