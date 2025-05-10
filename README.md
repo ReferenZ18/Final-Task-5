@@ -40,7 +40,7 @@ parameters passed to the function.
   <img src="Images/Task1-Result.png" alt="Alt Text" width="600">
 
 ## **TASK 3**
-
+ 
   - QUERY
 
   <img src="Images/Task3-Query.png" alt="Alt Text" width="600">
