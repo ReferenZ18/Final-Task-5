@@ -6,7 +6,7 @@ In this activity, we explored and applied the use of SQL Views, Stored Procedure
 description p_indate, of all products with p_indate from 2002 onwards
 
 2. CREATE a VIEW that will display all products whose price range is between 100-150
-
+ 
 3. Create a VIEW that will COMPUTE for the (TOTAL_PRICE) of ALL
 PRODUCTS by getting the (P_ONHAND x P_PRICE) Sold by vendors with
 the following v_code (21344, 23119 and 24288)
