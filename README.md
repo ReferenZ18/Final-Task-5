@@ -63,7 +63,7 @@ parameters passed to the function.
 
   - QUERY
 
-  <img src="Images/Task5-Result.png" alt="Alt Text" width="600">
+  <img src="Images/Task5-Query.png" alt="Alt Text" width="600">
 
   - RESULT
 
