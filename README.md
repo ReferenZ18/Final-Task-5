@@ -33,7 +33,7 @@ parameters passed to the function.
 
   - QUERY
 
-  <img src="Images/Task2-Result.png" alt="Alt Text" width="600">
+  <img src="Images/Task2-Query.png" alt="Alt Text" width="600">
 
   - RESULT
 
@@ -43,7 +43,7 @@ parameters passed to the function.
 
   - QUERY
 
-  <img src="Images/Task3-Result.png" alt="Alt Text" width="600">
+  <img src="Images/Task3-Query.png" alt="Alt Text" width="600">
 
   - RESULT
 
@@ -53,7 +53,7 @@ parameters passed to the function.
 
   - QUERY
 
-  <img src="Images/Task4-Result.png" alt="Alt Text" width="600">
+  <img src="Images/Task4-Query.png" alt="Alt Text" width="600">
 
   - RESULT
 
