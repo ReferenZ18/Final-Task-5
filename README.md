@@ -19,4 +19,52 @@ and display All the product description and price based on the
 parameters passed to the function.
 
 
+## **TASK 1**
 
+  - QUERY
+  
+  <img src="Images/Task1-Query.png" alt="Alt Text" width="600">
+
+  - RESULT
+  
+  <img src="Images/Task1-Result.png" alt="Alt Text" width="600">
+
+## **Task 2**
+
+  - QUERY
+
+  <img src="Images/Task2-Result.png" alt="Alt Text" width="600">
+
+  - RESULT
+
+  <img src="Images/Task1-Result.png" alt="Alt Text" width="600">
+
+## **TASK 3**
+
+  - QUERY
+
+  <img src="Images/Task3-Result.png" alt="Alt Text" width="600">
+
+  - RESULT
+
+  <img src="Images/Task3-Result.png" alt="Alt Text" width="600">
+
+## **TASK 4**
+
+  - QUERY
+
+  <img src="Images/Task4-Result.png" alt="Alt Text" width="600">
+
+  - RESULT
+
+  <img src="Images/Task4-Result.png" alt="Alt Text" width="600">
+
+## **TASK 5**
+
+  - QUERY
+
+  <img src="Images/Task5-Result.png" alt="Alt Text" width="600">
+
+  - RESULT
+
+  <img src="Images/Task5-Result.png" alt="Alt Text" width="600">
