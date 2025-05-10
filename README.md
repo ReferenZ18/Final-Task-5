@@ -1,6 +1,6 @@
 # Final-Task-5
 
-In this activity, we explored and applied the use of SQL Views, Stored Procedures, and Stored Functions by carefully following the step-by-step guide provided by our instructor:
+In this activity, we explored and applied the use of SQL Views, Stored Procedures, and Stored Functions by carefully following the step-by-step guide provided by our instructor: 
 
 1. CREATE A VIEW that will display the vendors_code, vendors name, product
 description p_indate, of all products with p_indate from 2002 onwards
