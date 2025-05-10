@@ -16,7 +16,7 @@ UPDATED the Name of Vendor ‘Bryson,Inc.’ to ‘Bryson and Co’.
 
 5. CREATE A Function that will take 2 parameters(v_code and v_state)
 and display All the product description and price based on the
-parameters passed to the function.
+parameters passed to the function. 
 
 
 ## **TASK 1**
